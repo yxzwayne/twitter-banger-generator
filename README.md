@@ -6,7 +6,7 @@ Imagine the power of your favorite Twitter banger, in the palm of your hands.
 
 Well, now you can!
 
-With Twitter Banger Generator, you can scrap, train, and generate your own Twitter bangers.
+With Twitter Banger Generator, you can scrape, train, and generate your own Twitter bangers.
 
 Scrap, train, and generate your own Twitter bangers, all locally on your own machine!
 
@@ -110,7 +110,7 @@ To do begin scraping your favoirte Twitter account, do the following:
 
 4. Begin scraping by running `npx playwright test --project=LocalChrome --ui`, and start scraping in the browser window that pops up.
 
-5. There's already some pre-scraped data in `scrap/`, so you can skip the scraping step if you want to just start playing around.
+5. There's already some pre-scraped data in `scrape/`, so you can skip the scraping step if you want to just start playing around.
 
 6. Please don't abuse this, I don't want Elon to get pissed.
 

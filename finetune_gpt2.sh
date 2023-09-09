@@ -9,7 +9,7 @@ fi
 mkdir -p "nanoGPT/data/$1"
 # probably Unnesscary copy but ¯\_(ツ)_/¯
 cp "nanoGPT/data/shakespeare/prepare.py" "nanoGPT/data/$1/prepare.py"
-cp "scrap/$1.txt" "nanoGPT/data/$1/input.txt"
+cp "raw/$1.txt" "nanoGPT/data/$1/input.txt"
 cp "finetune.py" "nanoGPT/config/finetune.py"
 
 python3 nanoGPT/data/$1/prepare.py

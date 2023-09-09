@@ -150,7 +150,7 @@ class Transformer(nn.Module):
 
 def train(poaster_id):
     print(f"=== Training for {poaster_id} ===")
-    with open(f"./scrap/{poaster_id}.txt", "r", encoding="utf-8") as f:
+    with open(f"./raw/{poaster_id}.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     # here are all the unique characters that occur in this text
@@ -231,7 +231,7 @@ def train(poaster_id):
 
 
 def sample(poaster_id):
-    with open(f"./scrap/{poaster_id}.txt", "r", encoding="utf-8") as f:
+    with open(f"./raw/{poaster_id}.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     # here are all the unique characters that occur in this text
@@ -281,7 +281,7 @@ else:
 
 # If you just want to train everything:
 
-# ls ./scrap |  cut -f1 -d'.'
+# ls ./raw |  cut -f1 -d'.'
 poaster_ids = [
     # "10x_er",
     # "1a1n1d1y",

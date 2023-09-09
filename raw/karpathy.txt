@@ -1,0 +1,195 @@
+The hottest new programming language is English
+------
+Speculative execution for LLMs is an excellent inference-time optimization.
+
+It hinges on the following unintuitive observation: forwarding an LLM on a single input token takes about as much time as forwarding an LLM on K input tokens in a batch (for larger K than you might… Show more
+------
+Full F16 precision 34B Code Llama at >20 t/s on M2 Ultra
+------
+StarCraft 2 and Half Life 2 were created perfect, and gaming has been downhill since those times. Is this universally agreed on or just me getting old
+------
+Imo the productivity amplification here is so large that organizations should be thinking about it as a basic work tool, like a new kind of spreadsheets++, given out eagerly and by default.
+------
+Introducing ChatGPT Enterprise: enterprise-grade security, unlimited high-speed GPT-4 access, extended context windows, and much more. We’ll be onboarding as many enterprises as possible over the next few weeks. Learn more: https://openai.com/blog/introducing-chatgpt-enterprise…
+------
+Deep Neural Nets: 33 years ago and 33 years from now
+https://karpathy.github.io/2022/03/14/lecun1989/…
+
+My post from last year randomly made it to HN so resharing here too. Maybe in 2055 someone will train an improved GPT-4 on their personal computing device in ~1 min as an irrelevant fun weekend project.
+------
+Looks very nice on initial skim!
+But about this "Unnatural Code Llama"...
+------
+Today we’re releasing Code Llama, a large language model built on top of Llama 2, fine-tuned for coding & state-of-the-art for publicly available coding tools.
+
+Keeping with our open approach, Code Llama is publicly-available now for both research & commercial use.
+
+More 
+------
+Sleep is beautiful because it makes your training jobs advance
+------
+everything is an API call. free your mind.
+------
+Open challenges in LLM research
+
+The first two challenges, hallucinations and context learning, are probably the most talked about today.
+
+I’m the most excited about 3 (multimodality), 5 (new architecture), and 6 (GPU alternatives).
+
+Number 5 and number 6, new architectures and… Show more
+------
+"What would someone need a personal computer for?"
+->
+"What would someone need a personal LLM node for?"
+------
+"How is LLaMa.cpp possible?" 
+great post by 
+@finbarrtimbers
+ 
+https://finbarr.ca/how-is-llama-cpp-possible/…
+
+llama.cpp surprised many people (myself included) with how quickly you can run large LLMs on small computers, e.g. 7B runs @ ~16 tok/s on a MacBook. Wait don't you need supercomputers to work… Show more
+------
+Two notes I wanted to add:
+
+1) In addition to parallel inference and training, prompt encoding is also parallelizable even at batch_size=1 because the prompt tokens can be encoded by the LLM in parallel instead of decoded serially one by one. The token inputs into LLMs always… Show more
+------
+ Looks impressive! $90K. 47 kg.
+Yes humanoid is the right form factor.
+I want one. Or two. A few.
+Stop the kicking!
+------
+Introducing Unitree H1: Its First General-purpose Humanoid Robot| Embodied AI, Price below $90k
+The preview of half-a-year achievement
+The highest-power-performance robot of its counterparts with similar specifications in the world, weigh ~47Kg, maximum joint torque of 360N.m
+------
+Found this picture of my first demo drive  of a self driving car ever, in what would later become Waymo. Dated Aug 2013, ~exactly one decade ago :)
+What I experienced then was quite good already, zero intervention drive around the area. How long it takes to make demos *real*…
+------
+We’ve been waiting for this moment and now we can share it with you: Today, we received our paid driverless permit from the CPUC! In the coming weeks, we’ll begin charging fares for rider-only trips and welcoming new riders into Waymo One in San Francisco. https://waymo.com/blog/2023/08/waymos-next-chapter-in-san-francisco.html…
+------
+!! Awesome !!   . It’s been great to watch driverless cars roaming the streets of SF in great numbers and making it look… boring. Cheering for my friends at Tesla, and for the space as a whole!
+------
+CA Votes YES on Full Self-Driving Taxi Rollout in San Francisco in win for @Cruise and @Waymo
+
+The California Public Utilities Commission (CPUC) voted 3-1 today to allow autonomous vehicle companies Waymo and Cruise’s self-driving taxi operations in San Francisco to operate 24/7… Show more
+------
+Today FLOPS is one of the things you can spend $ on.
+Tomorrow $ is one of the things you can spend FLOPS on.
+A reading from the church of FLOPS.
+------
+The video for my North Bay Python talk is out, and I've put together an accompanying edited transcript with annotated slides and links
+
+https://simonwillison.net/2023/Aug/3/weird-world-of-llms/…
+
+If you haven't been completely immersed in this world for the last year, my hope is this can help catch you up!
+------
+Agree that this looks to be the most compelling LK-99 video so far. I found this to be an approachable/fun explainer of what's happening: https://youtube.com/watch?v=PXHczjOg06w&t=246s…
+------
+First video of LK-99 Full Levitation, aka flux-pinning
+
+This video was just posted to the Chinese video-sharing site BiliBili  and claims to be a highly pure synthesized sample of LK-99.
+
+What is the physical phenomenon behind this and what does it mean?
+
+Levitation of… Show more
+------
+The hottest new programming language is English
+------
+Speculative execution for LLMs is an excellent inference-time optimization.
+
+It hinges on the following unintuitive observation: forwarding an LLM on a single input token takes about as much time as forwarding an LLM on K input tokens in a batch (for larger K than you might… Show more
+------
+Full F16 precision 34B Code Llama at >20 t/s on M2 Ultra
+------
+StarCraft 2 and Half Life 2 were created perfect, and gaming has been downhill since those times. Is this universally agreed on or just me getting old
+------
+Imo the productivity amplification here is so large that organizations should be thinking about it as a basic work tool, like a new kind of spreadsheets++, given out eagerly and by default.
+------
+Introducing ChatGPT Enterprise: enterprise-grade security, unlimited high-speed GPT-4 access, extended context windows, and much more. We’ll be onboarding as many enterprises as possible over the next few weeks. Learn more: https://openai.com/blog/introducing-chatgpt-enterprise…
+------
+Deep Neural Nets: 33 years ago and 33 years from now
+https://karpathy.github.io/2022/03/14/lecun1989/…
+
+My post from last year randomly made it to HN so resharing here too. Maybe in 2055 someone will train an improved GPT-4 on their personal computing device in ~1 min as an irrelevant fun weekend project.
+------
+Looks very nice on initial skim!
+But about this "Unnatural Code Llama"...
+------
+Today we’re releasing Code Llama, a large language model built on top of Llama 2, fine-tuned for coding & state-of-the-art for publicly available coding tools.
+
+Keeping with our open approach, Code Llama is publicly-available now for both research & commercial use.
+
+More 
+------
+Sleep is beautiful because it makes your training jobs advance
+------
+everything is an API call. free your mind.
+------
+Open challenges in LLM research
+
+The first two challenges, hallucinations and context learning, are probably the most talked about today.
+
+I’m the most excited about 3 (multimodality), 5 (new architecture), and 6 (GPU alternatives).
+
+Number 5 and number 6, new architectures and… Show more
+------
+"What would someone need a personal computer for?"
+->
+"What would someone need a personal LLM node for?"
+------
+"How is LLaMa.cpp possible?" 
+great post by 
+@finbarrtimbers
+ 
+https://finbarr.ca/how-is-llama-cpp-possible/…
+
+llama.cpp surprised many people (myself included) with how quickly you can run large LLMs on small computers, e.g. 7B runs @ ~16 tok/s on a MacBook. Wait don't you need supercomputers to work… Show more
+------
+Two notes I wanted to add:
+
+1) In addition to parallel inference and training, prompt encoding is also parallelizable even at batch_size=1 because the prompt tokens can be encoded by the LLM in parallel instead of decoded serially one by one. The token inputs into LLMs always… Show more
+------
+ Looks impressive! $90K. 47 kg.
+Yes humanoid is the right form factor.
+I want one. Or two. A few.
+Stop the kicking!
+------
+Introducing Unitree H1: Its First General-purpose Humanoid Robot| Embodied AI, Price below $90k
+The preview of half-a-year achievement
+The highest-power-performance robot of its counterparts with similar specifications in the world, weigh ~47Kg, maximum joint torque of 360N.m
+------
+Found this picture of my first demo drive  of a self driving car ever, in what would later become Waymo. Dated Aug 2013, ~exactly one decade ago :)
+What I experienced then was quite good already, zero intervention drive around the area. How long it takes to make demos *real*…
+------
+We’ve been waiting for this moment and now we can share it with you: Today, we received our paid driverless permit from the CPUC! In the coming weeks, we’ll begin charging fares for rider-only trips and welcoming new riders into Waymo One in San Francisco. https://waymo.com/blog/2023/08/waymos-next-chapter-in-san-francisco.html…
+------
+!! Awesome !!   . It’s been great to watch driverless cars roaming the streets of SF in great numbers and making it look… boring. Cheering for my friends at Tesla, and for the space as a whole!
+------
+CA Votes YES on Full Self-Driving Taxi Rollout in San Francisco in win for @Cruise and @Waymo
+
+The California Public Utilities Commission (CPUC) voted 3-1 today to allow autonomous vehicle companies Waymo and Cruise’s self-driving taxi operations in San Francisco to operate 24/7… Show more
+------
+Today FLOPS is one of the things you can spend $ on.
+Tomorrow $ is one of the things you can spend FLOPS on.
+A reading from the church of FLOPS.
+------
+The video for my North Bay Python talk is out, and I've put together an accompanying edited transcript with annotated slides and links
+
+https://simonwillison.net/2023/Aug/3/weird-world-of-llms/…
+
+If you haven't been completely immersed in this world for the last year, my hope is this can help catch you up!
+------
+Agree that this looks to be the most compelling LK-99 video so far. I found this to be an approachable/fun explainer of what's happening: https://youtube.com/watch?v=PXHczjOg06w&t=246s…
+------
+First video of LK-99 Full Levitation, aka flux-pinning
+
+This video was just posted to the Chinese video-sharing site BiliBili  and claims to be a highly pure synthesized sample of LK-99.
+
+What is the physical phenomenon behind this and what does it mean?
+
+Levitation of… Show more
+------
+Either this is a very well-done fake, or we really did just enter the era of room temperature superconductors. What is seen here (stable levitation above a dipole magnet) can *only* be a result of flux pinning. If the sample was a previously known low temp SC that had been… Show more
+------
+Unverified fully levitating #lk99 from China
