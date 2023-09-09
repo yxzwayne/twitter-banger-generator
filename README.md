@@ -2,6 +2,31 @@
 
 Imagine the power of your favorite Twitter banger, in the palm of your hands.
 
+---
+
+Forked from yiminghan. GOAT fr.
+
+- Added long tweet collection (going back and scrolling down height divided by 3).
+- Some text cleaning code, including getting rid of "hf.co" links (that kind of serious posting is too neutral).
+- Added a watchlist of users you can customize (only affects training data selection).
+- Moved credentials to a separate file (config.json) that's gitignored.
+- Also deletes the hashtag. Fuck you ChatGPT bread and butter tweet generation.
+
+
+Besides the original instructions down below, you should probably also consider creating a `config.json` in the root folder to store your throwaway twitter account credentials and openai api keys. Use this starter schema:
+
+```
+{
+  "username": "your_name_here",
+  "password": "your_pw_here",
+  "openai_api_key": "key_here"
+}
+```
+
+Happy hunting for tokens.
+
+---
+
 !["power of Twitter bangers, in the palm of my hands](banner.jpeg)
 
 Well, now you can!

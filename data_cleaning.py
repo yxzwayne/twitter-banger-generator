@@ -45,9 +45,9 @@ for filename in os.listdir("./raw"):
                 cleaned_entry = " ".join(entry.split())
                 cleaned_entries.append(cleaned_entry)
 
-            # Processing: Remove entries containing http in them.
+            # Processing: Remove entries containing hf.co in them.
             cleaned_entries = [
-                entry for entry in cleaned_entries if "http" not in entry
+                entry for entry in cleaned_entries if "hf.co" not in entry
             ]
 
             # Processing: Remove entries if it contains the hashtag character
